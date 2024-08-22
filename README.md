@@ -98,9 +98,6 @@ Gi0/11    auto   off        0.0     n/a                 n/a   30.0
 Gi0/12    auto   off        0.0     n/a                 n/a   30.0
 ```
 
-### Problems?
-Please reach out to me at antonhultberg@gmail.com
-
 ---
 *thamuppet - Anton Hultberg* <br>
 *antonhultberg@gmail.com* <br>
